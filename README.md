@@ -10,7 +10,7 @@
 * 🔭 Working on **LLM & RAG Projects**
 * 🌱 Learning **Gen AI, Agentic AI**
 * 💬 Ask me about **Python, ML, NLP, SQL**
-* 📫 Reach me: **[alokgorain56@gmail.com](mailto:alokgorain56@gmail.com)**
+* 📫 Reach me: **[alokgorain99@gmail.com](mailto:alokgorain56@gmail.com)**
 
 ---
 
